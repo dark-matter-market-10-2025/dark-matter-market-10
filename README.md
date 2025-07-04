@@ -22,4 +22,6 @@ Remember, anonymity is absolutely key when navigating these digital spaces. Alwa
 
 <a href="http://ytbzy2nljonwcp76o4yyccmrv64ysbjejnwtnpumqcrlkoa7pmpomeqd.onion"><img src="/backup/theme.webp" alt="image" style="max-width: 100%;"><a>  <a href="http://ytbzy2nljonwcp76o4yyccmrv64ysbjejnwtnpumqcrlkoa7pmpomeqd.onion"><img src="/backup/scroll.webp" alt="image" style="max-width: 100%;"><a>
 
-Update: Login URLs
+
+
+Update: url is now clickable and working
