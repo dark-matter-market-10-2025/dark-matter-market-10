@@ -24,4 +24,6 @@ Remember, anonymity is absolutely key when navigating these digital spaces. Alwa
 
 
 
-Update: url is now clickable and working
+
+
+Update: Fixed broken url, now operational
